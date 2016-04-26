@@ -1,0 +1,3 @@
+# AndroidSenorsPro
+some applications of Android sensor ,such as Light ,Accelerometer,Magnetic Field and Compass
+在Android系统中，提供了对传感器的支持。通过使用传感器，可以开发出很多新奇有趣的程序。小到水平仪 用、电子罗盘，大到各种传感器的游戏。这一应用大大增强了用户体验度。本项目使用了Android应用开发中 本常用的光照传感器、加速度传感器、重力传感器、电磁场传感器。并且用电磁场与重力传感器的数据经过计 算得到了方向信息，实现了指南针功能。<\n> In the Android system, provides support for many sensors. Using sensors, you can develop a lot of new and interesting applications. Such as, electronic compass, funny sensor games, Which greatly enhances the experience of user. This project uses the Android application developmentlight sensor, acceleration sensor, gravity sensors, magnetic sensors. Electricity and magnetism and gravity sensor data meter Received information, realize the compass function.
